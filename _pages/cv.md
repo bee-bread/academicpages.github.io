@@ -35,10 +35,9 @@ redirect_from:
 ======
 * Heirarchical & categorical thinking
 * Googling obscure things
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Critical thinking
+* Engaging in discussion and asking interesting questions
+* Debate
  
 💡 Projects
 ======
