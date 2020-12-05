@@ -10,12 +10,11 @@ redirect_from:
 {% include base_path %}
 💭 Research interests
 ======
-* Biodiversity, restoration ecology, citizen science, evolutionary ecology, anthropology
+* Biodiversity, restoration ecology, citizen science, evolutionary ecology, anthropology, bees (Hymenoptera:Anthophila)
 
 🎓 Education
 ======
-* M.S. in Entomology, Clemson University, 2021 (est.) 
-* B.S. in Biological Sciences, Clemson University, 2015
+* B.S. in Biological Sciences, Clemson University, 2019
   * Minor in Entomology
 
 🏭 Work experience
