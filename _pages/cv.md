@@ -38,7 +38,7 @@ redirect_from:
 * Small team leadership
 * Meticulous attention to detail
 * Adapting to extreme field conditions
-* Online media literacy; finding reputable online sources
+* Online media literacy
  
 💡 Projects
 ======
