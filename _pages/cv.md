@@ -28,8 +28,8 @@ redirect_from:
 
 * Summer 2017: Arthropod Zoo Intern 
   * North Carolina Museum of Natural History
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Duties included: 
+  * Supervisor: 
 
 🤹‍♀Skills
 ======
@@ -60,7 +60,7 @@ Talks
 👩‍💼 Organizations and leadership
 ======
 * President of the Clemson Entomology Club (Fall 2020) 
-  * Duties included: Organizing monthly meetings, managing email and slack channels
+  * Duties included: Organizing monthly meetings, managing email and slack channels, managing red tape.
 
 🏆 Awards
 ======
