@@ -20,24 +20,25 @@ redirect_from:
 
 🏭 Work experience
 ======
-* Summers 2016 & 2017: Pollinator Technician
+* 🏖 2016 & 2017: Pollinator Technician
   * Smithers Viscient, LLC
   * Duties included: 
   * Supervisor: Jessica Louque
   
 
-* Summer 2017: Arthropod Zoo Intern 
+* 🏖 2017: Arthropod Zoo Intern 
   * North Carolina Museum of Natural History
   * Duties included: 
   * Supervisor: 
 
-🤹‍♀Skills
+🤹‍♀ Skills
 ======
 * Heirarchical & categorical thinking
-* Googling obscure things
-* Critical thinking
-* Engaging in discussion and asking interesting questions
-* Debate
+* Debating & asking critical questions
+* Small team leadership
+* Meticulous attention to detail
+* Adapting to extreme field conditions
+* Online media literacy; finding reputable online sources
  
 💡 Projects
 ======
