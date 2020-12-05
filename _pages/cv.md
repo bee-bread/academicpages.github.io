@@ -29,7 +29,7 @@ redirect_from:
 * 🏖 2017: Arthropod Zoo Intern 
   * North Carolina Museum of Natural History
   * Duties included: 
-  * Supervisor: 
+  * Supervisor: Bill Reynolds
 
 🤹‍♀ Skills
 ======
