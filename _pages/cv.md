@@ -10,34 +10,34 @@ redirect_from:
 {% include base_path %}
 💭 Research interests
 ======
-* Biodiversity, restoration ecology, citizen science, evolutionary ecology, anthropology
+* Biodiversity, restoration ecology, citizen science, evolutionary ecology, anthropology, bees (Hymenoptera:Anthophila)
 
 🎓 Education
 ======
-* M.S. in Entomology, Clemson University, 2021 (est.) 
-* B.S. in Biological Sciences, Clemson University, 2015
+* B.S. in Biological Sciences, Clemson University, 2019
   * Minor in Entomology
 
 🏭 Work experience
 ======
-* Summers 2016 & 2017: Pollinator Technician
+* 🏖 2016 & 2017: Pollinator Technician
   * Smithers Viscient, LLC
   * Duties included: 
   * Supervisor: Jessica Louque
   
 
-* Summer 2017: Arthropod Zoo Intern 
+* 🏖 2017: Arthropod Zoo Intern 
   * North Carolina Museum of Natural History
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Duties included: 
+  * Supervisor: Bill Reynolds
 
-🤹‍♀Skills
+🤹‍♀ Skills
 ======
 * Heirarchical & categorical thinking
-* Googling obscure things
-* Critical thinking
-* Engaging in discussion and asking interesting questions
-* Debate
+* Debating & asking critical questions
+* Small team leadership
+* Meticulous attention to detail
+* Adapting to extreme field conditions
+* Online media literacy
  
 💡 Projects
 ======
@@ -60,7 +60,7 @@ Talks
 👩‍💼 Organizations and leadership
 ======
 * President of the Clemson Entomology Club (Fall 2020) 
-  * Duties included: Organizing monthly meetings, managing email and slack channels
+  * Duties included: Organizing monthly meetings, managing email and slack channels, managing red tape.
 
 🏆 Awards
 ======
