@@ -10,14 +10,14 @@ locale                   : "en-US"
 title                    : "Jenna L. Crowder"
 title_separator          : "-"
 name                     : &name "Jenna L. Crowder"
-description              : &description "I'm a scientist, maker, and casual streamer. She/her."
+description              : &description "This is the portfolio site of Jenna L. Crowder, forked from academic-pages-io."
 url                      : https://bee-bread.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bee-bread/bee-bread.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
@@ -82,34 +82,35 @@ analytics:
 author:
   name             : "Jenna L. Crowder"
   avatar           : "profile.png"
-  bio              : "I'm a scientist, tinkerer, and casual streamer."
+  bio              : "tinker, teacher, scientist, student. she/her."
   location         : "Clemson, SC, USA."
   employer         :
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : 
+  googlescholar    : 
+  email            : "jenna.crowder2015@gmail.com"
+  email            : "jlcrowd@g.clemson.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "jennacrowder.me"
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           :
+  flickr           : "jenna.crowder2015"
   facebook         :
   foursquare       :
   github           : "bee-bread"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "jenna.crowder"
   impactstory      : 
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/jennacrowder/"
+  orcid            : "https://orcid.org/0000-0001-5567-7420"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "Bee_Bread_"
   vine             :
   weibo            :
   xing             :
