@@ -88,13 +88,12 @@ author:
   pubmed           : 
   googlescholar    : 
   email            : "jenna.crowder2015@gmail.com"
-  email            : "jlcrowd@g.clemson.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "jennacrowder.me"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           : "jenna.crowder2015"
+  flickr           : "https://www.flickr.com/people/183258493@N06/"
   facebook         :
   foursquare       :
   github           : "bee-bread"
@@ -103,7 +102,7 @@ author:
   instagram        : "jenna.crowder"
   impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/jennacrowder/"
+  linkedin         : "jennacrowder"
   orcid            : "https://orcid.org/0000-0001-5567-7420"
   pinterest        :
   soundcloud       :
