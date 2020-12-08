@@ -27,20 +27,21 @@ This personal portfolio/website is very much a living, breathing construction *s
   - [ ] Mealybug map [^3]
 
 ### Link
-  - [ ] Social media 
-    - [ ] Twitter *@Bee_Bread?*
-    - [ ] Instagram
-    - [ ] OrcidID (lol as if there's anything published under my name) [^4]
-    - [ ] **Linked in** ***NEEDS UPDATE***
-      - [ ] Copy and paste job descriptions
-    - [ ] 
+  - [x] Social media 
+    - [x] Twitter
+    - [x] Instagram
+    - [x] OrcidID (lol as if there's anything published under my name) [^4]
+    - [x] **Linked in** ***NEEDS UPDATE***
   - [ ] **Colleague websites**
     - [ ] Mike
     - [ ] Caterino lab
     - [ ] SC Botanical Garden
     - [ ] Greenville Cooperative County Extension Program
     - [ ] Raleigh Museum of Natural History
-    - [ ] 
+  
+### External Websites to update (copy/paste job descriptions, awards, projects)
+  - [ ] Linkedin
+  - [ ] OrcidID
 
 =======
 -------
