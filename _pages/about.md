@@ -10,38 +10,36 @@ redirect_from:
 
 This personal portfolio/website is very much a living, breathing construction *site* (pun intended). Here's my gameplan for updating this guy before the end of this terrible, very bad, no good year. 
 
-=======
-# To Do 
+# To Do / Upload
 
-## To Upload 
 ### PDFs
-  - [ ] SC Bee Links [^1]
-  - [ ] ESA Poster Presentation [^2]
-  - [ ] Insect Ambassadors Pendleton Elementary poster 
-  - [ ] Bee Brochure
-  - [ ] CV
+  - [ ]  SC Bee Links [^1]
+  - [ ]  ESA Poster Presentation [^2]
+  - [ ]  Insect Ambassadors Pendleton Elementary poster 
+  - [ ]  Bee Brochure
+  - [ ]  CV
 
 ### Embed
-  - [ ] Flickr portfolios
-  - [ ] SC bee map
-  - [ ] Mealybug map [^3]
+  - [ ]  Flickr portfolios
+  - [ ]  SC bee map
+  - [ ]  Mealybug map [^3]
 
 ### Link
-  - [x] Social media 
-    - [x] Twitter
-    - [x] Instagram
-    - [x] OrcidID (lol as if there's anything published under my name) [^4]
-    - [x] **Linked in** ***NEEDS UPDATE***
-  - [ ] **Colleague websites**
-    - [ ] Mike
-    - [ ] Caterino lab
-    - [ ] SC Botanical Garden
-    - [ ] Greenville Cooperative County Extension Program
-    - [ ] Raleigh Museum of Natural History
+  ~~- [x]  Social media~~ 
+    ~~- [x]  Twitter~~
+    ~~- [x]  Instagram~~
+    ~~- [x]  OrcidID (lol as if there's anything published under my name) [^4]~~
+    ~~- [x]  **Linked in~~
+  - [ ]  **Colleague websites**
+    - [ ]  Mike
+    - [ ]  Caterino lab
+    - [ ]  SC Botanical Garden
+    - [ ]  Greenville Cooperative County Extension Program
+    - [ ]  Raleigh Museum of Natural History
   
 ### External Websites to update (copy/paste job descriptions, awards, projects)
-  - [ ] Linkedin
-  - [ ] OrcidID
+  - [ ]  Linkedin
+  - [ ]  OrcidID
 
 =======
 -------
